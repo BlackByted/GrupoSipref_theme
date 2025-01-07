@@ -1,10 +1,7 @@
-# [Material Dashboard 2 PRO Laravel](https://material-dashboard-pro-laravel.creative-tim.com)
-![version](https://img.shields.io/badge/version-3.0.1-blue.svg) 
-[![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-material-dashboard-pro-laravel.svg)](https://github.com/creativetimofficial/ct-material-dashboard-pro-laravel/issues?q=is%3Aopen+is%3Aissue) 
-[![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-material-dashboard-pro-laravel.svg)](https://github.com/creativetimofficial/ct-material-dashboard-pro-laravel/issues?q=is%3Aissue+is%3Aclosed)
 
 
-*Frontend version*: Material Dashboard v3.0.1. More info at  https://www.creative-tim.com/product/material-dashboard-pro
+
+*Demo*: https://material-dashboard-pro-laravel.creative-tim.com/sign-in
 
 [<img src="https://s3.amazonaws.com/creativetim_bucket/products/158/original/material-dashboard-pro-laravel.jpg" width="100%" />](https://material-dashboard-pro-laravel.creative-tim.com) 
 
@@ -12,8 +9,6 @@ Material Dashboard PRO Laravel combines hundreds of premium Bootstrap 5 frontend
 
 ## Designed to save time
 The backend is fully integrated, meaning you can easily tick all the boxes for a fully-functional admin panel for your custom application. You have hundreds of UI components to choose from, which you can easily edit using Sass files and classes. In short, everything you need so that your app looks like you want it to look and does what you want it to do.
-## Free demo
-Check out the open-source demo version for a taste of what Material Dashboard PRO Laravel has to offer. 
 ## Table of Contents
 * [Prerequisites](#prerequisites)
 * [Installation](#installation)
@@ -69,36 +64,6 @@ Besides the numerous types of dashboard, you can find pages for editing your pro
 | HTML | Laravel |
 | --- | --- |
 | [<img src="https://s3.amazonaws.com/creativetim_bucket/products/51/thumb/opt_mdp_thumbnail.jpg" width="483"/>](https://www.creative-tim.com/product/material-dashboard-pro) | [<img src="https://s3.amazonaws.com/creativetim_bucket/products/158/thumb/material-dashboard-pro-laravel.jpg" width="483"/>](https://www.creative-tim.com/product/material-dashboard-pro-laravel)
-
-| Vue | React |
-| --- | --- |
-| [<img src="https://s3.amazonaws.com/creativetim_bucket/products/595/thumb/vue-material-dashboard-pro.jpg" width="483"/>](https://www.creative-tim.com/product/vue-material-dashboard-2-pro) | [<img src="https://s3.amazonaws.com/creativetim_bucket/products/80/thumb/material-dashboard-pro-react.jpg" width="483"/>](https://www.creative-tim.com/product/material-dashboard-pro-react)
-
-## Demo
-| Register | Login | 
-| --- | --- | 
-| [<img src="https://github.com/AlexVlad95/material-dashboard-2-laravel-pro/blob/main/screens/register.png" width="483" />](https://material-dashboard-pro-laravel.creative-tim.com/sign-up) | [<img src="https://github.com/AlexVlad95/material-dashboard-2-laravel-pro/blob/main/screens/login.png" width="483" />](https://material-dashboard-pro-laravel.creative-tim.com/sign-in)  
-
-| Forgot Password Page | Reset Password Page | 
-| --- | --- | 
-| [<img src="https://github.com/AlexVlad95/material-dashboard-2-laravel-pro/blob/main/screens/forgot-password.png" width="483" />](https://material-dashboard-pro-laravel.creative-tim.com/verify) | [<img src="https://github.com/AlexVlad95/material-dashboard-2-laravel-pro/blob/main/screens/reset-password.PNG" width="483" />](https://material-dashboard-pro-laravel.creative-tim.com/sign-in) 
-
-| Dashboard | Virtual Reality  |
-| ---  | ---  |
-| [<img src="https://github.com/AlexVlad95/material-dashboard-2-laravel-pro/blob/main/screens/dashboard.PNG" width="480" />](https://material-dashboard-pro-laravel.creative-tim.com/dashboard) | [<img src="https://github.com/AlexVlad95/material-dashboard-2-laravel-pro/blob/main/screens/vritual-reality.PNG" width="484"/>](https://material-dashboard-pro-laravel.creative-tim.com/vr-default)
-
-| Profile Page | User Management |
-| ---  | ---  |
-| [<img src="https://github.com/AlexVlad95/material-dashboard-2-laravel-pro/blob/main/screens/profile.png" width="485"/>](https://material-dashboard-pro-laravel.creative-tim.com/user-profile) | [<img src="https://github.com/AlexVlad95/material-dashboard-2-laravel-pro/blob/main/screens/user-management.png" width="475"/>](https://material-dashboard-pro-laravel.creative-tim.com/user-management)
-
-| Role Management | Item Management  |
-| --- | --- | 
-| [<img src="https://github.com/AlexVlad95/material-dashboard-2-laravel-pro/blob/main/screens/role.png" width="483"/>](https://material-dashboard-pro-laravel.creative-tim.com/roles)| [<img src="https://github.com/AlexVlad95/material-dashboard-2-laravel-pro/blob/main/screens/items.PNG" width="483"/>](https://material-dashboard-pro-laravel.creative-tim.com/items)
-
-| Category Management | Tag Management | 
-| --- | --- |
-| [<img src="https://github.com/AlexVlad95/material-dashboard-2-laravel-pro/blob/main/screens/category.png" width="483"/>](https://material-dashboard-pro-laravel.creative-tim.com/category) | [<img src="https://github.com/AlexVlad95/material-dashboard-2-laravel-pro/blob/main/screens/tag.png" width="483"/>](https://material-dashboard-pro-laravel.creative-tim.com/tag)
-[View More](https://material-dashboard-pro-laravel.creative-tim.com/dashboard)
 
 ## Documentation
 The documentation for the Material Dashboard Laravel is hosted at our [website](https://material-dashboard-pro-laravel.creative-tim.com/documentation/getting-started/installation.html).
@@ -577,37 +542,3 @@ We use GitHub Issues as the official bug tracker for the Soft UI Dashboard. Here
 
 ## Useful Links
 - [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new) (earn money)
-- [Blog Creative Tim](http://blog.creative-tim.com/)
-- [Free Products](https://www.creative-tim.com/bootstrap-themes/free) from Creative Tim
-- [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=md2pl-readme) from Creative Tim
-- [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=md2pl-readme) from Creative Tim
-- [VueJS Products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes?ref=md2pl-readme) from Creative Tim
-- [More products](https://www.creative-tim.com/bootstrap-themes?ref=md2pl-readme) from Creative Tim
-- Check our Bundles [here](https://www.creative-tim.com/bundles??ref=md2pl-readme)
-
-### Social Media
-
-### Creative Tim
-Twitter: <https://twitter.com/CreativeTim?ref=md2pl-readme>
-
-Facebook: <https://www.facebook.com/CreativeTim?ref=md2pl-readme>
-
-Dribbble: <https://dribbble.com/creativetim?ref=md2pl-readme>
-
-Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=md2pl-readme>
-
-### Updivision:
-
-Twitter: <https://twitter.com/updivision?ref=md2pl-readme>
-
-Facebook: <https://www.facebook.com/updivision?ref=md2pl-readme>
-
-Linkedin: <https://www.linkedin.com/company/updivision?ref=md2pl-readme>
-
-Updivision Blog: <https://updivision.com/blog/?ref=md2pl-readme>
-
-## Credits
-
-- [Creative Tim](https://creative-tim.com/?ref=md2pl-readme)
-- [UPDIVISION](https://updivision.com)
